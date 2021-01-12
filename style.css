@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+
+#Contact Us
+{
+    background-color: red;
+    
+    
+}
+#BVUCOE{
+    background-color: aquamarine;
+    top=20px;
+}
+
+.menu{
+    list-style: none;
+    cursor: pointer;
+    font-family: sans-serif;
+    top: 10px;
+}
+
+.links{
+    float: left;
+    color: antiquewhite;
+    padding: 5px;
+    font-family:sans-serif;
+    font-size: 20px;
+}
+
+.links:hover{
+    
+    background-color: coral;
+}
+
+
